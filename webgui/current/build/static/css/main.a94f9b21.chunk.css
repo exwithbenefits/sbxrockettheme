@@ -4860,7 +4860,7 @@ a.badge-dark.focus, a.badge-dark:focus {
   height: 1rem;
   overflow: hidden;
   font-size: .65625rem;
-  background-color: #313645;
+  background-color: #282a35;
   border-radius: .25rem
 }
 
@@ -4868,7 +4868,7 @@ a.badge-dark.focus, a.badge-dark:focus {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: #fff;
+  color: #ecfdff;
   text-align: center;
   white-space: nowrap;
   background-color: #ee4037;
@@ -11969,7 +11969,7 @@ canvas {
 }
 
 .progress-white .progress-bar {
-  background-color: #fff
+  background-color: #ecfdff
 }
 
 .progress-group {
