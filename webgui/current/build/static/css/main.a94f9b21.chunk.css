@@ -15578,6 +15578,7 @@ body {
 }
 
 .timeline .step-active .btn {
+  color: ivory;
   border: 5px solid #3f79ad
 }
 
