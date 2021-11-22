@@ -15556,7 +15556,7 @@ body {
 .timeline h4 {
   padding-top: 10px;
   font-weight: 700;
-  color: #8c8c8c
+  color: #ecfdff
 }
 
 .timeline .btn-step-count {
@@ -15573,11 +15573,11 @@ body {
 }
 
 .timeline .step-active .btn {
-  border: 5px solid #3f79ad
+  border: 5px solid #1ce9b7
 }
 
 .timeline .step-active h4 {
-  color: #424242
+  color: #313645
 }
 
 .timeline .btn-step-active {
