@@ -15674,7 +15674,7 @@ body {
   position: absolute;
   top: 51px;
   width: 100%;
-  border: 1px solid #ee4037;
+  border: 1px solid #ee534b;
   background-color: #ecfdff;
   font-family: Helvetica, sans-serif;
   font-weight: 300;
@@ -15693,13 +15693,13 @@ body {
 }
 
 .react-autosuggest__suggestion {
-  color: #22242e
+  color: #21232d;
   cursor: pointer;
   padding: 10px 20px
 }
 
 .react-autosuggest__suggestion--highlighted {
-  background-color: #ee4037
+  background-color: #ee534b
 }
 
 .progress-modal {
