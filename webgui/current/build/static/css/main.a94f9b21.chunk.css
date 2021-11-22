@@ -2225,7 +2225,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #21232d;
+  color: #ecfdff;
   background-color: #ee534b;
   border-color: #21232d
 }
@@ -2385,14 +2385,14 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-danger {
-  color: #282a35;
-  background-color: #ee4037;
+  color: #ecfdff;
+  background-color: #ee534b;
   border-color: #282a35
 }
 
 .btn-danger:hover {
   color: #ecfdff;
-  background-color: #ee534b;
+  background-color: #ee4037;
   border-color: #ecfdff
 }
 
