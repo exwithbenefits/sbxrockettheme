@@ -6081,11 +6081,11 @@ a.bg-success:focus, a.bg-success:hover, button.bg-success:focus, button.bg-succe
 }
 
 .bg-info {
-  background-color: #007af7 !important
+  background-color: #181a28 !important
 }
 
 a.bg-info:focus, a.bg-info:hover, button.bg-info:focus, button.bg-info:hover {
-  background-color: #2cc1fb !important
+  background-color: #1e2031 !important
 }
 
 .bg-warning {
