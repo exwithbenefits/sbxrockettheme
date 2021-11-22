@@ -170,7 +170,7 @@ a:hover {
 }
 
 a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
-  color: #ff896d;
+  color: #ecfdff;
   text-decoration: none
 }
 
@@ -2247,7 +2247,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
   color: #ecfdff;
-  background-color: #2cc1fb;
+  background-color: #313645;
   border-color: #282a35
 }
 
