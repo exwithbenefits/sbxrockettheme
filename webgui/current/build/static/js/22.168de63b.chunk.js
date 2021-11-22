@@ -21,7 +21,7 @@
             url: "/showconfig",
             icon: "icon-note"
           }, {
-            name: "Explorer",
+            name: "File Browser",
             url: "/remoteExplorer",
             icon: "icon-screen-desktop"
           }, {
@@ -67,11 +67,11 @@
         }, {
           path: "/remoteExplorer/:remoteName/:remotePath",
           exact: !0,
-          name: "Explorer",
+          name: "File Browser",
           component: g
         }, {
           path: "/remoteExplorer",
-          name: "Explorer",
+          name: "File Browser",
           component: g
         }, {
           path: "/mountDashboard",
