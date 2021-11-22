@@ -170,7 +170,7 @@ a:hover {
 }
 
 a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
-  color: inherit;
+  color: #ff896d;
   text-decoration: none
 }
 
@@ -14258,7 +14258,7 @@ a.bg-cyan:focus, a.bg-cyan:hover, button.bg-cyan:focus, button.bg-cyan:hover {
 }
 
 .bg-white {
-  background-color: #313645 !important
+  background-color: #ecfdff !important
 }
 
 a.bg-white:focus, a.bg-white:hover, button.bg-white:focus, button.bg-white:hover {
