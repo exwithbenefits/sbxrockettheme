@@ -15542,7 +15542,7 @@ body {
 }
 
 .btn-blue, .btn-blue :hover {
-  background-color: #3f79ad;
+  background-color: #1ce9b7;
   color: #fff
 }
 
@@ -15579,7 +15579,7 @@ body {
 
 .timeline .step-active .btn {
   color: ivory;
-  border: 5px solid #3f79ad
+  border: 5px solid #1ce9b7
 }
 
 .timeline .step-active h4 {
