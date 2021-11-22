@@ -56,13 +56,13 @@
               src: d.a,
               width: 150,
               height: 40,
-              alt: "Sushi Banner"
+              alt: "Rocket Logo"
             },
             minimized: {
               src: u.a,
-              width: 60,
-              height: 58,
-              alt: "Sushi Logo"
+              width: 38,
+              height: 38,
+              alt: "Rocket Logo"
             }
           }), r.a.createElement(i.k, {
             className: "d-md-down-none",
