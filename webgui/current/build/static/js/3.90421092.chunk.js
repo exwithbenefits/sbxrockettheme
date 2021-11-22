@@ -584,7 +584,7 @@
             className: "p-4"
           }, n.a.createElement(w.a, null, n.a.createElement(E.a, {
             onSubmit: this.onSubmit
-          }, n.a.createElement("h1", null, "Login"), n.a.createElement("p", {
+          }, n.a.createElement("h1", null, "Login to Rocket"), n.a.createElement("p", {
             className: "text-muted"
           }, "Sign In to your account"), c && n.a.createElement(C, {
             color: "danger",
