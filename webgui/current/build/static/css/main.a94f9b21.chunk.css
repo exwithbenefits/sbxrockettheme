@@ -15537,7 +15537,7 @@ body {
 }
 
 .btn-blue, .btn-blue :hover {
-  background-color: #3f79ad;
+  background-color: #ee534b;
   color: #ecfdff
 }
 
@@ -15556,14 +15556,14 @@ body {
 .timeline h4 {
   padding-top: 10px;
   font-weight: 700;
-  color: #ecfdff
+  color: #21232d
 }
 
 .timeline .btn-step-count {
   border-radius: 100px;
   background: none;
-  border: 5px solid #ecfdff;
-  color: #ecfdff;
+  border: 5px solid #21232d;
+  color: #21232d;
   font-weight: 700
 }
 
@@ -15577,7 +15577,7 @@ body {
 }
 
 .timeline .step-active h4 {
-  color: #21232d
+  color: #ecfdff
 }
 
 .timeline .btn-step-active {
