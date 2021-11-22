@@ -2224,15 +2224,15 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #282a35;
-  background-color: #007af7;
-  border-color: #282a35
+  color: #ecfdff;
+  background-color: #ee534b;
+  border-color: #ecfdff
 }
 
 .btn-primary:hover {
-  color: #ecfdff;
-  background-color: #2cc1fb;
-  border-color: #ecfdff
+  color: #282a35;
+  background-color: #ee534b;
+  border-color: #282a35
 }
 
 .btn-primary.focus, .btn-primary:focus {
@@ -2289,13 +2289,13 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-success {
   color: #282a35;
-  background-color: #1ce9b7;
+  background-color: #ee534b;
   border-color: #282a35
 }
 
 .btn-success:hover {
   color: #ecfdff;
-  background-color: #00d5d9;
+  background-color: #ee4037;
   border-color: #ecfdff
 }
 
