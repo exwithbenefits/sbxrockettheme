@@ -1932,7 +1932,7 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
 }
 
 .form-control.is-valid, .was-validated .form-control:valid {
-  border-color: #4dbd74;
+  border-color: #ff896d;
   padding-right: calc(1.5em + .75rem);
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%234dbd74' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
@@ -2241,8 +2241,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #ecfdff;
-  background-color: #2cc1fb;
-  border-color: #282a35
+  background-color: #ee534b;
+  border-color: #ecfdff
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
@@ -5400,7 +5400,7 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: #313645;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, .2);
   border-radius: .3rem;
@@ -15621,12 +15621,12 @@ body {
 }
 
 .tab-active {
-  background: #1b8eb7;
-  color: #fff
+  background: #ee534b;
+  color: #ecfdff
 }
 
 .tab-active i {
-  color: #fff
+  color: #ecfdff
 }
 
 .text-red {
