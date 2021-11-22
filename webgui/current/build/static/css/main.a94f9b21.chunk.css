@@ -15562,13 +15562,13 @@ body {
 .timeline .btn-step-count {
   border-radius: 100px;
   background: none;
-  border: 5px solid #8c8c8c;
-  color: #424242;
+  border: 5px solid #ecfdff;
+  color: #ecfdff;
   font-weight: 700
 }
 
 .timeline .timeline-divider {
-  border: 2px solid #424242;
+  border: 2px solid #21232d;
   margin-top: 24px
 }
 
@@ -15577,7 +15577,7 @@ body {
 }
 
 .timeline .step-active h4 {
-  color: #313645
+  color: #21232d
 }
 
 .timeline .btn-step-active {
