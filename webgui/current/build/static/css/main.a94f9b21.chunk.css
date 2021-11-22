@@ -2257,13 +2257,13 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #282a35;
-  background-color: #007af7;
+  background-color: #181a28;
   border-color: #282a35
 }
 
 .btn-secondary:hover {
   color: #ecfdff;
-  background-color: #2cc1fb;
+  background-color: #1f2232;
   border-color: #ecfdff
 }
 
