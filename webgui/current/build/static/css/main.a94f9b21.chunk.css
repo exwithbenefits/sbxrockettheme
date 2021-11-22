@@ -2416,15 +2416,15 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-light {
-  color: #282a35;
+  color: #21232d;
   background-color: #313645;
   border-color: #313645
 }
 
 .btn-light:hover {
-  color: #282a35;
-  background-color: #d9e1e6;
-  border-color: #d1dbe1
+  color: #ecfdff;
+  background-color: #ee4037;
+  border-color: #ee4037
 }
 
 .btn-light.focus, .btn-light:focus {
