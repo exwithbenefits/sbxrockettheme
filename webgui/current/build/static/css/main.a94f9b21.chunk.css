@@ -13935,11 +13935,11 @@ html[dir=rtl] .aside-menu-show .aside-menu {
     z-index: 1020;
     width: 100%;
     text-align: center;
-    background-color: #ecfdff
+    background-color: #21232d
   }
 
   .app-header .navbar-toggler {
-    color: #21232d
+    color: #ecfdff
   }
 
   .app-header .navbar-brand {
